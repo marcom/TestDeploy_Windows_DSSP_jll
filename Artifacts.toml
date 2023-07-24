@@ -1,18 +1,18 @@
 [[DSSP]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
-git-tree-sha1 = "cd400a9c5acbec0c980c38553c67b61d348ad0dd"
+git-tree-sha1 = "019d56c259e167e6224138a552df12c2d284601f"
 os = "windows"
 
     [[DSSP.download]]
-    sha256 = "90e86074970f12bfed6df63b95c64e2938b28cf38441147663ab7adce9f8d5b1"
+    sha256 = "6cb3448944e12bc76801b7cef6ff0a38f290109c36d0e8b4d8db7d64d49ac27d"
     url = "https://github.com/marcom/TestDeploy_Windows_DSSP_jll/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-w64-mingw32-cxx03.tar.gz"
 [[DSSP]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cd400a9c5acbec0c980c38553c67b61d348ad0dd"
+git-tree-sha1 = "019d56c259e167e6224138a552df12c2d284601f"
 os = "windows"
 
     [[DSSP.download]]
-    sha256 = "90e86074970f12bfed6df63b95c64e2938b28cf38441147663ab7adce9f8d5b1"
+    sha256 = "6cb3448944e12bc76801b7cef6ff0a38f290109c36d0e8b4d8db7d64d49ac27d"
     url = "https://github.com/marcom/TestDeploy_Windows_DSSP_jll/releases/download/DSSP-v4.4.0+1/DSSP.v4.4.0.x86_64-w64-mingw32-cxx11.tar.gz"
