@@ -1,6 +1,6 @@
 name = "DSSP_jll"
 uuid = "74334e00-59ce-546d-b517-81f3b7e1d491"
-version = "4.4.0+0"
+version = "4.4.0+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
